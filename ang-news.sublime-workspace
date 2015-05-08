@@ -1,0 +1,645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3987,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/posts.js",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/services/post.js",
+			"settings":
+			{
+				"buffer_size": 453,
+				"line_ending": "Windows",
+				"name": "'use strict'"
+			}
+		},
+		{
+			"file": "app/views/posts.html",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/postview.js",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Windows",
+				"name": "'use-strict'"
+			}
+		},
+		{
+			"file": "app/views/showpost.html",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Windows",
+				"name": "<div>"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Craig/Google Drive/Work Docs/work_diary.txt",
+		"/C/ang-news/.jshintrc",
+		"/C/ang-news/app/views/posts.html",
+		"/C/ang-news/app/views/main.html",
+		"/C/ang-news/app/scripts/controllers/main.js",
+		"/C/ang-news/app/404.html",
+		"/C/ang-news/app/robots.txt",
+		"/C/Users/Craig/Google Drive/Work Docs/stuff.txt",
+		"/C/angularfire-seed-LMS/app/game/game.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/views/player_list/player_list.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/views/player_list/player_list.js",
+		"/C/angularfire-seed-LMS/app/game/game.html",
+		"/C/Users/Craig/Google Drive/IMES/Beacons/cgToken/cgToken Notes.txt",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/js/services.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/js/animations.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/partials/phone-list.html",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/index.html",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/js/app.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/css/animations.css",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/js/controllers.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/partials/phone-detail.html",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/js/filters.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/bower.json",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/css/app.css",
+		"/C/Users/Craig/Desktop/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/test/e2e/scenarios.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/test/unit/filtersSpec.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/test/unit/directivesSpec.js",
+		"/C/Users/Craig/Desktop/angular-phonecat/app/js/directives.js",
+		"/C/Users/Craig/Google Drive/Photos/New Text Document.txt",
+		"/C/angularfire-seed-LMS/LMSNotes.txt",
+		"/C/angularfire-seed-LMS/app/index.html",
+		"/C/angularfire-seed-LMS/app/games/games_test.js",
+		"/C/angularfire-seed-LMS/app/app.js",
+		"/C/angularfire-seed-LMS/app/app.css",
+		"/C/angularfire-seed-LMS/app/gamecreation/gamecreation.html",
+		"/C/angularfire-seed-LMS/app/gamecreation/gamecreation.js",
+		"/C/angularfire-seed-LMS/app/home/home.html",
+		"/C/angularfire-seed-LMS/app/dashboard/dashboard.html",
+		"/C/angularfire-seed-LMS/app/app2.js",
+		"/C/angularfire-seed-LMS/app/home/home.js",
+		"/C/angularfire-seed-LMS/app/config.js",
+		"/C/angularfire-seed-LMS/app/games/games.js",
+		"/C/angularfire-seed-LMS/app/views/game/game.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/js/app.js",
+		"/C/angularfire-seed-LMS/app/home/home_test.js",
+		"/C/angularfire-seed-LMS/app/account/account.js",
+		"/C/angularfire-seed-LMS/app/login-facebook/login_facebook.js",
+		"/C/angularfire-seed-LMS/app/login-facebook/login_facebook.html",
+		"/C/angularfire-seed-LMS/app/account/account.html",
+		"/C/angularfire-seed-LMS/app/login/login_test.js",
+		"/C/angularfire-seed-LMS/app/login-facebook/login_facebook_test.js",
+		"/C/angularfire-seed-LMS/app/login/login.js",
+		"/C/angularfire-seed-LMS/app/login/login.html",
+		"/C/Users/Craig/Downloads/sgccareytest-export.json",
+		"/C/angularfire-seed-LMS/app/games/games.html",
+		"/C/angularfire-seed-LMS/app/games/game.js",
+		"/C/angularfire-seed-LMS/app/pages/home/home.js",
+		"/C/angularfire-seed-LMS/app/pages/games/game.js",
+		"/C/angularfire-seed-LMS/app/pages/dashboard/dashboard.js",
+		"/C/angularfire-seed-LMS/app/pages/chat/chat.js",
+		"/C/angularfire-seed-LMS/app/pages/account/account.js",
+		"/C/angularfire-seed-LMS/app/dashboard/dashboard.js",
+		"/C/angularfire-seed-LMS/app/pages/home/home.html",
+		"/C/angularfire-seed-LMS/app/dashboard/dashboard_test.js",
+		"/C/angularfire-seed-LMS/security-rules.json",
+		"/C/angularfire-seed-LMS/app/game/game_test.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/views/landing_page/landing_page.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/css/desktop.css",
+		"/C/angularfire-seed/app/app.js",
+		"/C/angularfire-seed/app/config.js",
+		"/C/angularfire-seed/app/index.html",
+		"/C/angularfire-seed-LMS/app/config_test.js",
+		"/C/angularfire-seed-LMS/app/index-async.html",
+		"/C/angularfire-seed-LMS/.travis.yml",
+		"/C/angularfire-seed-LMS/README.md",
+		"/C/Users/Craig/Google Drive/LMSNotes",
+		"/C/Users/Craig/Google Drive/Work Docs/Leave Taken.txt",
+		"/C/Users/Craig/Google Drive/Work Docs/Instil Training",
+		"/C/Users/Craig/Google Drive/Work Docs/work diary.txt",
+		"/C/Users/Craig/Google Drive/Work Docs/work_docs.sublime-workspace",
+		"/C/Users/Craig/Google Drive/Work Docs/launch_work_docs.bat",
+		"/C/Users/Craig/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KD480M39/ATT00001.htm",
+		"/C/Users/Craig/Google Drive/Work Docs/pw.txt",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/index.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/css/app.css",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS/app/css/app.css",
+		"/C/Users/Craig/Google Drive/IMES/Beacons/cgToken/cgTokenLibrary-1.0.133-37/Changelog.txt",
+		"/C/Users/Craig/Desktop/angularLMS2/app/css/app.css",
+		"/C/Users/Craig/Google Drive/LMS.txt",
+		"/C/Users/Craig/Google Drive/IMES/Beacons/cgToken/cgtoken_v2.2/SDK_Android/05_cyberJack_android_sdk_V_1_1_0/samples/SimpleTokenDemo/src/com/certgate/cgtoken/simpletokendemo/MainActivity.java",
+		"/C/Users/Craig/Desktop/angularLMS2/app/index.html",
+		"/C/Users/Craig/Desktop/angularLMS2/app/views/player_list/player_list.html",
+		"/C/Users/Craig/Desktop/angularLMS2/app/views/landing_page/landing_page.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/LICENSE",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireIntro/index.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS/app/partials/player_list.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/js/controllers.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/js/services.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angular-seed-master/app/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/partials/player_list.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/js/filters.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/js/directives.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS2/app/views/landing_page/landing_page.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angular-course-demo-app/app/js/controllers.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireIntro/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS/app/partials/landing_page.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS/app/index.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS/app/view1/view1.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS/app/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS/app/js/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS/app/view2/view2.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS/app/view2/view2.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS/app/js/controllers.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS2/app/js/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS2/app/partials/player_list.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS2/app/index.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS2/app/js/controllers.js",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS2/app/partials/playerlist.txt",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularLMS/app/index.html",
+		"/C/Users/Craig/Google Drive/Workspace/AngularJS/angularFireLMS2/app.yaml",
+		"/C/Users/Craig/Google Drive/Workspace/web-dev/shapingup/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/web-dev/edit_users_with_watch/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/web-dev/shapingup/index.html",
+		"/C/Users/Craig/Google Drive/Workspace/web-dev/edit_users_with_watch/index.html",
+		"/C/Users/Craig/Desktop/11 Single Page App/index.html",
+		"/C/Users/Craig/Desktop/11 Single Page App/app.js",
+		"/C/Users/Craig/Google Drive/Workspace/web-dev/angularLMS/app/js/controllers.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Craig\\Desktop\\angular-phonecat\\app",
+			"C:\\angularfire-seed-LMS\\app",
+			"C:\\angularfire-seed-LMS",
+			"C:\\angularfire-seed-LMS\\app",
+			"C:\\angularfire-seed-LMS",
+			"C:\\angularfire-seed-LMS\\app",
+			"C:\\angularfire-seed-LMS",
+			"C:\\angularfire-seed-LMS\\app",
+			"C:\\angularfire-seed-LMS",
+			"C:\\angularfire-seed-LMS\\app",
+			"C:\\angularfire-seed-LMS",
+			"C:\\Users\\Craig\\Google Drive\\Workspace\\AngularJS\\angularLMS2",
+			"C:\\Users\\Craig\\Google Drive\\Workspace\\AngularJS\\angularLMS2\\app",
+			"C:\\Users\\Craig\\Google Drive\\Workspace\\web-dev\\angularTest",
+			"C:\\Users\\Craig\\Downloads\\appengine-angular-seed-python-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"];\n",
+			"true",
+			"Phone",
+			"PhoneListCtrl",
+			"ng-view",
+			"playerList",
+			"GamesList",
+			"GameCtrl",
+			"GamesCtrl",
+			"GamesListCtrl",
+			"GamesCtrl",
+			"Ctrl",
+			"newGameName",
+			"left",
+			"game-form",
+			"      \n",
+			"myApp",
+			"loginRedirectPath",
+			"path",
+			"template_url",
+			"path",
+			"loginRedirectPath",
+			"home.html",
+			"myapp.chat",
+			"fbutil",
+			"firebase",
+			"messages",
+			"messageList",
+			"fbutil",
+			"ctrl",
+			"cont",
+			"messageList",
+			"chat",
+			"\n.container {\n  float: left; \n}",
+			"\"Not found\"",
+			"routeProvider",
+			"bootstrap",
+			"block",
+			"width",
+			"font-size",
+			"scss",
+			"20",
+			"xama",
+			"token",
+			"myApp",
+			"playerListController",
+			"myApp",
+			"siteApp",
+			"PlayerListController",
+			"siteApp.controllers",
+			"ng-app",
+			"LandingPageController",
+			"myApp.controllers",
+			");\n",
+			"controller",
+			"liopa",
+			"http",
+			"ng-controller",
+			"animated",
+			"testApp",
+			"myApp",
+			"controller",
+			"python",
+			"appengine-angular-seed-python-master",
+			"angul",
+			"bin_dir",
+			"copied",
+			"gnuea",
+			"cross",
+			"compile",
+			"cross com",
+			"scp",
+			"kill",
+			"df -h",
+			"clone",
+			"dd if",
+			"dd",
+			".so",
+			"opencv",
+			"rpi",
+			"raspberr",
+			"tools",
+			"ssh dev",
+			"git clone",
+			"NONCONN",
+			"0CF3EE3BC012",
+			"NInject",
+			"{}\n",
+			"timer",
+			"connecting",
+			"shared",
+			"25",
+			"new string(",
+			"timer_Tick",
+			"FiveSecondTimer",
+			"cell",
+			"apple",
+			"2424",
+			"6472",
+			"7264",
+			"5040",
+			"5040242477307264",
+			"?",
+			"long",
+			"lat",
+			"layout",
+			"-	",
+			"xama",
+			"();",
+			"scan",
+			"383230424431",
+			"80000000FFFFFFFFFFFFF8B76F7BC259F8B76F7BC2590000",
+			"6400110000",
+			"180BD",
+			"180BD15400000000",
+			"180BD15400000000�",
+			"setmedia",
+			"IFF_UP",
+			"up",
+			"nl80211_setmode",
+			"monitor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 3987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3944,
+								3944
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/controllers/posts.js",
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/scripts/services/post.js",
+					"settings":
+					{
+						"buffer_size": 453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use strict'",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/posts.html",
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/scripts/controllers/postview.js",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use-strict'",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/showpost.html",
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true
+}
